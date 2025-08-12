@@ -67,6 +67,9 @@ This project provides a structured learning path for mastering mathematics in th
 
 ## 🚀 Quick Start
 
+### 🌐 **Live Demo**
+Visit the live website: **[https://ai-math-tutorial-project.vercel.app](https://ai-math-tutorial-project.vercel.app)**
+
 ### Prerequisites
 - Any modern web browser
 - Web server (for local development)
@@ -75,8 +78,8 @@ This project provides a structured learning path for mastering mathematics in th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AdnanAhmad1994/ai-math-roadmap-website.git
-   cd ai-math-roadmap-website
+   git clone https://github.com/AdnanAhmad1994/Ai-math-tutorial-project.git
+   cd Ai-math-tutorial-project
    ```
 
 2. **Serve the application**
