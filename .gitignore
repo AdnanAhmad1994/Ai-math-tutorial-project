@@ -5,8 +5,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Production builds
-/dist
+# Production builds (uncomment to exclude)
+# /dist
 /build
 
 # Environment variables
