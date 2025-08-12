@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "name": "ai-math-tutorial-project",
+  "builds": [
+    {
+      "src": "dist/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/dist/$1"
+    }
+  ],
+  "public": true,
+  "github": {
+    "enabled": true,
+    "autoAlias": true
+  }
+}
